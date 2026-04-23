@@ -96,7 +96,6 @@
 		"sans_bonestab2.csv",
 		"sans_boneslidev.csv",
 		"sans_multi1.csv",
-		"sans_randomblaster1.csv",
 		"sans_multi2.csv",
 		"sans_randomblaster2.csv",
 		"sans_bonestab3.csv",
