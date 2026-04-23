@@ -2,7 +2,7 @@
 0,HeartTeleport,320,304,,,
 0,HeartMode,0,,,,
 0,TLPause,,,,,
-0,SansText,Mr beast,,,,,,,
+0,SansText,Get off my property, Papyrus is actually a petite little boy,,,,,,
 0,SET,Loop,9,,,
 0,JMPZ,26,$Loop,,,
 0,SUB,Loop,$Loop,1,,
