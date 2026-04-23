@@ -3,7 +3,7 @@
 0,HeartMode,0,,,,,,,
 0,TLPause,,,,,,,,
 0,SansText,Short video,,,,,,,
-0.01,SET,Loop,105,,,,,,
+0.01,SET,Loop,50,,,,,,
 0,SUB,Loop,$Loop,1,,,,,
 0,RND,Ang,360,,,,,,
 0,COS,X,$Ang,,,,,,
