@@ -113,21 +113,6 @@
 0.9,GetHeartPos,HeartX,HeartY,,,,,,
 0,HeartTeleport,40,$HeartY,,,,,,
 0,HeartMaxFallSpeed,0,,,,,,,
-0,SansSlam,0,,,,,,,
-1,HeartMaxFallSpeed,330,,,,,,,
-0,SansSlam,1,,,,,,,
-0,SansBody,HandDown,,,,,,,
-0,GasterBlaster,0.7,640,346,560,346,180,0,0
-0.7,SansSlam,3,,,,,,,
-0,SansBody,HandUp,,,,,,,
-0,GasterBlaster,0.7,640,286,560,286,180,0,0
-0.7,SansSlam,1,,,,,,,
-0,SansBody,HandDown,,,,,,,
-0,GasterBlaster,0.7,640,286,560,286,180,0,0
-0,BoneStab,1,36,0.4,0.2,,,,
-0.7,SansSlam,3,,,,,,,
-0,SansBody,HandUp,,,,,,,
-0,GasterBlaster,0.7,640,346,560,346,180,0,0
 0,BoneStab,3,36,0.4,0.2,,,,
 0.7,BlackScreen,1,,,,,,,
 0,SansAnimation,Idle,,,,,,,
@@ -136,5 +121,4 @@
 0,SansTorso,Shrug,,,,,,,
 0,SansHead,Wink,,,,,,,
 0,SansText,Guess my footlong doesn't interest you,,,,,,,
-,,,,,,,,,
 0,EndAttack,,,,,,,,
