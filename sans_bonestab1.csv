@@ -14,29 +14,23 @@
 
 0,RND,Direction,4,,,
 0,ADD,Jump,$Direction,1,,
-0,JMPREL,$Jump,,,
-
-
-0,JMPREL,4,,,
-0,JMPREL,5,,,
-0,JMPREL,6,,,
-0,JMPREL,7,,,
-
-0,SansBody,HandRight,,,
-0,JMPREL,7,,,
-
-0,SansBody,HandDown,,,
-0,JMPREL,5,,,
-
-0,SansBody,HandLeft,,,
-0,JMPREL,3,,,
-
-0,SansBody,HandUp,,,
-0,JMPREL,1,,,
-
-
-0.26666,SansSlam,$Direction,,,
-0.2,BoneStab,$Direction,25,0.4,0.33333,
+0,JMPREL,$Jump,,,,
+0,JMPREL,4,,,,
+0,JMPREL,5,,,,
+0,JMPREL,6,,,,
+0,JMPREL,7,,,,
+0,SansBody,HandRight,,,,
+0,JMPREL,7,,,,
+0,SansBody,HandDown,,,,
+0,JMPREL,5,,,,
+0,SansBody,HandLeft,,,,
+0,JMPREL,3,,,,
+0,SansBody,HandUp,,,,
+0,JMPREL,1,,,,
+0.26666,SansSlam,$Direction,,,,
+0.2,BoneStab,$Direction,25,0.3,0.2,
+0.43333,JMPABS,6,,,,
+0,EndAttack,,,,,
 
 0,RND,GasterBlaster,406,485,249,180,37.5,21
 
