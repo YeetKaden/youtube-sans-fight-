@@ -80,13 +80,7 @@
 0,GasterBlaster,1,640,480,369,446,270,0.333,0.8
 0.6,SansSlam,1,,,,,,,
 0,SansBody,HandDown,,,,,,,
-0,BoneStab,1,30,0.3,0.5,,,,
-0.6,SansSlam,3,,,,,,,
-0,SansBody,HandUp,,,,,,,
-0,BoneStab,3,30,0.3,0.5,,,,
-0.7,SansAnimation,Tired,,,,,,,
-0,HeartMode,0,,,,,,,
-
+0,BoneStab,1,30,0.3,0.5,,,,,,,
 0,SansAnimation,Idle,,,,,,,
 0,SansHead,EyesClosed,,,,,,,
 0,SansText,Welp... ,,,,,,,
