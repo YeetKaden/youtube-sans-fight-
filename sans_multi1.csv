@@ -103,7 +103,7 @@
 1.5,JMPABS,RndAttack,,,,,,
 0,:End,,,,,,,
 0,CombatZoneResizeInstant,33,251,608,391,,,
-0,HeartTeleport,249,270,43,0,0,1,
+0,HeartTeleport,300,270,,,,,
 0,BoneStab,1,64,0,9999,,,,
 0,Platform,246,270,43,0,0,1,
 0,Platform,346,270,43,0,0,1,
