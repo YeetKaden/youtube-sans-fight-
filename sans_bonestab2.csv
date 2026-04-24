@@ -16,7 +16,7 @@
 0,ItemXY,344,432,,,,,,
 0,Music,mus_zz_megalovania,,,,,,,
 0,CombatZoneResizeInstant,239,226,404,251,,,,
-0,CombatZoneSpeed,10,,,,,,,
+0,CombatZoneSpeed,100,,,,,,,
 0,CombatZoneResize,239,226,404,391,,,,
 18,HeartTeleport,320,304,,,,,,
 0,HeartMode,0,,,,,,,
