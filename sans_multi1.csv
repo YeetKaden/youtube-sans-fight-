@@ -100,7 +100,9 @@
 0,HeartTeleport,149,376,,,,,
 0,BoneVRepeat,440,331,55,2,360,11,24
 0,BoneVRepeat,704,371,15,2,360,10,24
+0,:End,,,,,,,
 1.5,JMPABS,RndAttack,,,,,,
+0,SansText,destroy you!!!
 0,CombatZoneResizeInstant,933,951,908,991,,,
 0,HeartMode,0,,,,,,
 0,HeartTeleport,300,270,,,,,
