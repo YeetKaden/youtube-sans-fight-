@@ -6,7 +6,7 @@
 0,Sound,Flash,,,,,,,
 0.4,BlackScreen,0,,,,,,,
 0,Sound,Flash,,,,,,,
-0,JMPZ,End,$Loop,,,,,,
+0,JMPZ,End,$Loop,,,,,,,
 0,SUB,Loop,$Loop,1,,,,,
 0,RND,Jump,4,,,,,,
 0,ADD,Jump,$Jump,1,,,,,
@@ -55,11 +55,7 @@
 0,GasterBlaster,1,191,436,191,436,315,0.66666,0.26666
 0,GasterBlaster,1,451,432,181,73,94,0.66666,0.26666
 0,GasterBlaster,1,451,583,294,223,391,0,66666,0.26666
-0,SansSlam,1,,,,,,,,
-0,GasterBlaster,1,191,176,191,176,45,0.66666,0.26666
-0,GasterBlaster,1,451,176,451,176,135,0.66666,0.26666
-0,GasterBlaster,1,451,436,451,436,225,0.66666,0.26666
-0,GasterBlaster,1,191,436,191,436,315,0.66666,0.26666
+0,SansSlam,2,,,,,,,,
 0,GasterBlaster,1,451,225,300,320,90,0.66666,0.26666
 0,GasterBlaster,1,451,225,300,320,91,0,66666,0.26666
 1.2,JMPABS,RndAttack,,,,,,,
@@ -70,7 +66,7 @@
 0,JMPZ,Attack8Other,$Side,,,,,,
 0,HeartTeleport,382,304,,,,,,
 0,SineBones,16,-20,300,55,,,,
-0,SineBones,16,50,340,55,,,,
+0,SineBones,16,-20,340,55,,,,
 0,SineBones,16,-20,120,55,,,,
 1.7,JMPABS,RndAttack,,,,,,,
 0,:Attack8Other,,,,,,,,
@@ -85,7 +81,6 @@
 0,HeartTeleport,489,376,,,,,,
 0,BoneVRepeat,345,364,20,0,120,6,76,
 0,BoneVRepeat,297,280,82,2,120,6,76,
-1.9,JMPABS,RndAttack,,,,,,,
 1.9,JMPABS,RndAttack,,,,,,,
 0,SansText,DROP THE FETUS,,,,,,,
 0,EndAttack,,,,,,,,
