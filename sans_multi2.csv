@@ -20,8 +20,11 @@
 0,CombatZoneResizeInstant,121,276,526,391,,,,
 0,HeartMode,1,,,,,,,
 0,HeartTeleport,330,304,,,,,,
-0,Platform,309,314,41,0,0,,,
-0,Platform,309,354,41,0,0,,,
+0,PlatformRepeat,552,346,51,2,120,8,140,
+0,GasterBlaster,1,191,306,191,306,0,0.6,0.26666
+0,GasterBlaster,1,321,166,321,166,90,0.6,0.26666
+0,GasterBlaster,1,449,306,449,306,180,0.6,0.26666
+0,GasterBlaster,1,321,446,321,446,270,0.6,0.26666
 0,BoneVRepeat,121,364,30,2,0,25,16,
 0,RND,Side,2,,,,,,
 0,JMPZ,Attack5Other,$Side,,,,,,
