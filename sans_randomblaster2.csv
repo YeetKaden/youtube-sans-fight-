@@ -32,11 +32,7 @@
 0,sansslam,3,,,,,,,
 0,GasterBlaster,1,0,0,189,246,0,0.2,0.27
 0.4,SansAnimation,Idle,,,,,,,
-0,HeartMode,0,,,,,,,
 0,sound,ding,,,,,,,
 0.8,SineBones,-20,-24,360,25,,,,
 0,SineBones,-20,24,360,25,,,,
-2.4,GasterBlaster,1,640,276,93,276,0,0,0.233
-2.4,sansslam,3,,,,,,,
-2.4,GasterBlaster,1,640,276,93,276,0,0,0.233
 2.4,EndAttack,,,,,,,,
