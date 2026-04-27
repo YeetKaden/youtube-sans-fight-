@@ -38,6 +38,7 @@
 0,JMPZ,Attack5Other,$Side,,,,,,
 0,BoneV,521,280,35,2,240,,,
 0,BoneV,1,319,65,0,240,,,
+0,sansslam,3,,,,,,
 0,GasterBlaster,0,133,0,133,151,90,0.1,0.4
 0.09,GasterBlaster,0,133,0,153,151,90,0.1,0.4
 0.09,GasterBlaster,0,133,0,173,151,90,0.1,0.4
@@ -86,7 +87,7 @@
 0,GasterBlaster,1,451,583,294,223,391,0,66666,0.26666
 2,SansSlam,1,,,,,,,,
 1,GasterBlaster,1,451,225,300,320,90,0.66666,0.26666
-1,GasterBlaster,1,451,225,300,320,91,0,66666,0.26666
+1,GasterBlaster,1,251,125,95,140,91,0,66666,0.26666
 1,GetHeartPos,HeartX,HeartY,,,,,,
 0,GasterBlaster,1,0,0,$HeartX,151,90,0.4,0.2
 0,GetHeartPos,HeartX,HeartY,,,,,,
@@ -165,7 +166,7 @@
 0,JMPZ,Attack8Other,$Side,,,,,,
 0,HeartTeleport,382,304,,,,,,
 0,SineBones,16,-20,300,55,,,,
-0,SineBones,-16,20,340,55,,,,
+0,BoneHRepeat,-20,45,56,92,15,,,,,,
 1.7,JMPABS,RndAttack,,,,,,,
 0,:Attack8Other,,,,,,,,
 0,HeartTeleport,267,304,,,,,,
