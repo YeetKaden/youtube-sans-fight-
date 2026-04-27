@@ -8,8 +8,11 @@
 0,BoneVRepeat,128,366,20,0,210,8,133
 0,BoneVRepeat,503,257,95,2,210,8,133
 0,BoneVRepeat,503,366,20,2,210,8,133
-3.3,sansslam,2,,,,,
-0.4,BoneHRepeat,128,257,95,0,210,8,133
-5,sinebones,-21,15,45,220,,,
-0,GasterBlaster,1,0,0,210,330,0.9,0.2666
+9.3,sansslam,2,,,,,
+5,sinebones,20,24,360,25
+0,sinebones,-21,25,360,25,,,
+2.5,GasterBlaster,1,0,0,210,330,0.9,0.2666
+2.5,GasterBlaster,1,0,0,210,330,0.9,0.5
+2.5,GasterBlaster,1,640,480,449,436,225,0.333,0.26666
+1.5,GasterBlaster,1,0,480,189,436,315,0.333,0.26666
 6,EndAttack,,,,,,,
