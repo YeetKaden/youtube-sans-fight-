@@ -1,5 +1,4 @@
 0,CombatZoneResize,133,251,508,391,TLResume,,,
-0,SansText,john youtube are here,,,,,,,
 0,HeartTeleport,320,376,,,,,,
 0,HeartMode,1,,,,,,,
 0,TLPause,,,,,,,,
@@ -31,8 +30,15 @@
 0.4,sansbody,handup,,,,,,,
 0,sansslam,3,,,,,,,
 0,GasterBlaster,1,0,0,189,246,0,0.2,0.27
+0,sansslam,1,,,,,,,
+0,GasterBlaster,1,640,276,93,276,0,0,0.233
+0,GasterBlaster,1,0,0,259,166,90,0,2,0.27
+0,BoneHRepeat,130,-10,200,1,300,7,183,
+0,BoneHRepeat,330,650,200,3,300,7,183,
+0.2,BoneHRepeat,130,-10,2
 0.4,SansAnimation,Idle,,,,,,,
+0,HeartMode,0,,,,,,,
 0,sound,ding,,,,,,,
-0.8,SineBones,-20,-24,360,25,,,,
-0,SineBones,-20,24,360,25,,,,
+0.8,SineBones,20,-24,360,25,,,,
+0,SineBones,20,24,360,25,,,,
 2.4,EndAttack,,,,,,,,
