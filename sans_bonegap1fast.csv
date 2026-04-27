@@ -9,7 +9,7 @@
 0,BoneVRepeat,503,257,95,2,210,8,133
 0,BoneVRepeat,503,366,20,2,210,8,133
 7,sansslam,2,,,,,
-0,sinebones,-21,25,360,25,,,
+0,CombatZoneResize,239.226,404,391,TLResume,,
 0.5,GasterBlaster,1,0,0,210,330,0.9,0.2666
 0.3,GasterBlaster,1,0,0,210,330,0.9,0.5
 0.2,GasterBlaster,1,640,480,449,436,225,0.333,0.26666
@@ -30,4 +30,4 @@
 0,GasterBlaster,1,0,200,75,200,35,0.5,0.4
 0,GasterBlaster,1,200,999,200,450,290,0.5,0.4
 0,GasterBlaster,1,0,0,50,350,5,0.5,0.4
-6,EndAttack,,,,,,,
+16,EndAttack,,,,,,,
