@@ -10,7 +10,7 @@
 0,BoneVRepeat,503,366,20,2,210,8,133
 5,sansslam,2,,,,,
 0,Sound,Flash,,,,,,
-0.4,BlackScreen,1,,,,,,
+0.4,BlackScreen,0,,,,,,
 2,sinebones,20,24,360,25,,,
 0,sinebones,-21,25,360,25,,,
 0.5,GasterBlaster,1,0,0,210,330,0.9,0.2666
