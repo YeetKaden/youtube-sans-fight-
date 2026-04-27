@@ -60,4 +60,11 @@
 0,ADD,Total,$Total,25,,
 0,JMPABS,Begin,,,,
 0,:End,,,,,
+0.9,sinebones,-20,25,15,45,,,
+0,sinebones,-20,-25,55,45,,,
+5,GasterBlaster,0,0,246,189,246,0,0.333,0.3
+0.9,GasterBlaster,0,259,480,259,166,90,0.333,0.3
+0.9,GasterBlaster,0,640,366,449,366,180,0.333,0.3
+0.9,GasterBlaster,0,379,0,379,446,270,0.333,0.3
+0.9,GasterBlaster,0,0,480,320,304,45,0.333,0.3
 7,EndAttack,,,,,
