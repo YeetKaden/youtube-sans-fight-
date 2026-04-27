@@ -16,10 +16,10 @@
 0,BoneVRepeat,503,257,95,2,180,8,120
 0,BoneVRepeat,128,366,20,0,180,8,120
 1,GetHeartPos,HeartX,HeartY,,,,,,
-0,GasterBlaster,1,0,0,$HeartX,151,90,0.4,0.2
+0,GasterBlaster,1,0,0,$HeartX,351,90,0.4,0.2
 0,GetHeartPos,HeartX,HeartY,,,,,,
-0,GasterBlaster,1,0,0,133,$HeartY,0,0.4,0.2
-0,GasterBlaster,1,0,0,508,$HeartY,180,0.4,0.2
+0,GasterBlaster,1,310,220,133,$HeartY,0,0.4,0.2
+0,GasterBlaster,1,310,220,508,$HeartY,180,0.4,0.2
 0,BoneVRepeat,503,257,95,2,180,8,120
 0,BoneVRepeat,128,366,20,0,180,8,120
 5,BoneStab,20,30,5,1,,,,
