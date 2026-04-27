@@ -1,6 +1,6 @@
 0,CombatZoneResize,241,226,406,391,TLResume,,,
 0,HeartTeleport,320,304,,,,,,
-0,HeartMode,0,,,,,,,
+0,HeartMode,1,,,,,,,
 0,TLPause,,,,,,,,
 0.4,SansSlam,2,,,,,,,
 0,SansBody,HANDLEFT,,,,,,,
