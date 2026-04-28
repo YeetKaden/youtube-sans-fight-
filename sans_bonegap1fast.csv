@@ -19,15 +19,10 @@
 2,BoneStab,1,105,1,1,
 2,BoneStab,3,105,1,1,
 2,BoneStab,1,105,1,1,
-0,GasterBlaster,1,50,0,50,136,90,2.5,0.5
-0,GasterBlaster,1,350,0,350,136,90,5.5,0.5
-0,GasterBlaster,1,500,0,500,136,90,7,0.0.5
 2,BoneStab,3,105,1,1,
 2,BoneStab,1,105,1,1,
-2.5,GasterBlaster,1,50,0,50,136,90,2.5,2.5
-0,GasterBlaster,1,0,0,270,310,2.5,0.5
-0,GasterBlaster,1,300,0,300,136,90,5,0.9
 2,BoneStab,3,105,1,1,
 2,BoneStab,1,105,1,1,
-2.2,EndAttack,,,,,,,
+2,sinebones,-45,15,225,35,,,
+0,sinebones,45,25,225,35,,,
 26,EndAttack,,,,,,,
