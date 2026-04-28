@@ -14,8 +14,6 @@
 0,BoneHRepeat,533,366,62,2,150,25,120
 1,BoneStab,1,105,1,1,
 2,BoneStab,3,105,1,1,
-0,GasterBlaster,1,50,0,50,136,90,2.5,2
-0,GasterBlaster,1,300,0,300,136,90,5,2.1
 0,GasterBlaster,1,450,0,450,136,90,6.5,1
 0,GasterBlaster,1,500,0,500,136,90,7,0.5
 2,BoneStab,1,105,1,1,
@@ -26,7 +24,7 @@
 0,GasterBlaster,1,500,0,500,136,90,7,0.0.5
 2,BoneStab,3,105,1,1,
 2,BoneStab,1,105,1,1,
-0,GasterBlaster,1,50,0,50,136,90,2.5,2.5
+2.5,GasterBlaster,1,50,0,50,136,90,2.5,2.5
 0,GasterBlaster,1,0,0,270,310,2.5,0.5
 0,GasterBlaster,1,300,0,300,136,90,5,0.9
 2,BoneStab,3,105,1,1,
