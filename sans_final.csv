@@ -5,6 +5,7 @@
 0,SansSweat,0,,,,,,,
 0,sanstext,Ready for my             Special Attack?,,,,,,,
 0,SET,I,0,,,,,,
+0,SETHP,9999999999999,,,,,,
 0.3,RND,Direction,4,,,,,,
 0,ADD,Jump,$Direction,1,,,,,
 0,JMPREL,$Jump,,,,,,,
