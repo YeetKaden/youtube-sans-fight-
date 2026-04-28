@@ -2,7 +2,7 @@
 0,HeartTeleport,320,376,,,
 0,HeartMode,0,,,,
 0,TLPause,,,,,
-0.125,GasterBlaster,1,0,0,321,166,90,0,10000
+0.125,GasterBlaster,1,0,0,321,166,90,0,25
 0,SET,Total,0,,,
 0,:Begin,,,,,
 0,JMPNL,End,$Total,400,,
@@ -102,15 +102,4 @@
 0.2,SansAnimation,,,,,,,,,,,,
 0,GasterBlaster,1,0,0,189,246,0,0.4,0.2,,,,
 0,GasterBlaster,1,0,0,259,166,90,0.4,0.2,,,,
-0,GasterBlaster,1,640,480,449,366,180,0.4,0.2,,,,
-0,GasterBlaster,1,640,480,379,446,270,0.4,0.2,,,,
-0,RND,Y,3,,,,,,
-0,MUL,Y,$Y,40,,,,,
-0,ADD,Y,$Y,285,,,,,
-0,GasterBlaster,0,0,0,73,$Y,0,0.56666,0.1
-0.9,RND,Y,3,,,,,,
-0,MUL,Y,$Y,40,,,,,
-0,ADD,Y,$Y,285,,,,,
-0,GasterBlaster,0,640,0,563,$Y,180,0.56666,0.1
-0.9,JMPNZ,8,$Loop,,,,,,
-15,EndAttack,,,,,
+8,EndAttack,,,,,
